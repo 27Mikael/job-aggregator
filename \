@@ -1,9 +1,9 @@
 # 🚀 Job-aggregator (subject to change)
 
-![Repo Stars](https://img.shields.io/github/stars/27Mikael/Job-aggregator.svg?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/27Mikael/Job-aggregator.svg?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/27Mikael/Job-aggregator.svg?style=for-the-badge)
-![License](https://img.shields.io/github/license/27Mikael/Job-aggregator.svg?style=for-the-badge)
+![Repo Stars](https://img.shields.io/github/stars/27Mikael/YOUR_REPO.svg?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/27Mikael/YOUR_REPO.svg?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/27Mikael/YOUR_REPO.svg?style=for-the-badge)
+![License](https://img.shields.io/github/license/27Mikael/YOUR_REPO.svg?style=for-the-badge)
 
 ## 📌 About  
 This project is a website that presents job opennings for junior level software dev to a website. 
@@ -13,9 +13,9 @@ Time is of the essence so Carpe diem
 
 ## 🛠️ Features  (Roadmap)
 - [] Web scraper  
-- [] Website   
+- [] Feature 2  
 - [] Auto-updated contributor section  
-- [] Auto-generated changelog from commit history
+- [] Auto-generated changelog from commit history  
 
 ---
 
@@ -30,7 +30,7 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
 
 # Install dependencies (if applicable)
-no install guide as yet
+make install  # or `npm install` / `pip install -r requirements.txt`
 ```
 
 ## 🔥 Contributors
